@@ -1,0 +1,18 @@
+Group,Scores,Absolute deviations,Squared deviations,Sum of Squared deviations
+1,20,-4.75,22.5625,78.75
+1,23,-1.75,3.0625,
+1,32,7.25,52.5625,
+1,24,-0.75,0.5625,
+2,25,-18,324,506
+2,46,3,9,
+2,56,13,169,
+2,45,2,4,
+,,,,
+Mean of group 1,,24.75,,
+Mean of group 1,,43,,
+The above data shows that the mean score on a test is different for the two groups tested,,,,
+,,,,
+,,,,
+Variance for Group 1,,19.6875,,
+Variance for Group 1,,126.5,,
+The above data shows that  the variances are not equal in both groups,,,,
